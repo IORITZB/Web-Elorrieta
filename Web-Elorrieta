@@ -1,0 +1,23 @@
+Proyecto de Página Web para Empresas
+La idea es generar un pequeño sitio web que sirva de “gancho” para llamar la atención de las empresas. 
+
+Deberá incluir un formulario del drive en el que las empresas interesadas puedan contactar con el departamento para solicitar más información o alumnos.
+
+Deberá incluir información sobre:
+Nuestros ciclos (por ahora los de informática)
+Formación en centros de trabajo
+Formación Dual
+Las nuevas prácticas de los de primero
+Página de contacto con el formulario (no es propiamente una sección)
+
+Cada sección incluirá una sección de preguntas frecuentes y si procede enlaces a páginas de Gobierno Vasco. Por ejemplo en formación dual hay que especificar que la información actual está en https://www.fpeuskadidual.eus/
+
+Salvo la primera de los ciclos, las otras tres secciones podrían tener la misma estructura y un aspecto uniforme.
+
+La idea es que sea sencilla de desplegar y mantener. Os pasaré arrays PHP con la información de los ciclos y las FAQ de cada sección. Modificando los arrays se modifica el sitio.
+
+Podéis poner que la habéis hecho vosotros y que sois alumnos de DAW.
+
+Me gustaría tener vuestra opinión sobre los arrays que os pasaré. No me importa si son complicados de recorrer (os lo curráis), me importa que alguien que sepa del tema lo pueda mantener aunque no controle PHP.
+
+Ir pensando el ello y esta tarde o mañana os paso datos en esta misma carpeta.
