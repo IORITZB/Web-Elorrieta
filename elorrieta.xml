@@ -1,0 +1,1731 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="elorrieta.css"?>
+<elorrieta>
+  <familia id="AD">
+    <nombre>Administración y Gestión</nombre>
+    <icono>euskadi/administracion-gestion.gif</icono>
+    <icono_p>madrid/peque/administracion.png</icono_p>
+    <icono_g>madrid/grande/administracion.png</icono_g>
+    <ciclo id="ADAF3">
+      <nombre>Administración y Finanzas</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0648">
+          <nombre>Recursos Humanos y responsabilidad social corporativa</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0649">
+          <nombre>Ofimática y proceso de la información</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0650">
+          <nombre>Proceso integral de la actividad comercial</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0651">
+          <nombre>Comunicación y atención al cliente</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0179">
+          <nombre>Inglés</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0652">
+          <nombre>Gestión de Recursos Humanos</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0658">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0647">
+          <nombre>Gestión de la documentación jurídica y empresarial</nombre>
+          <horas>100</horas>
+        </modulo>
+        <modulo codigo="0653">
+          <nombre>Gestión financiera</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0654">
+          <nombre>Contabilidad y fiscalidad</nombre>
+          <horas>180</horas>
+        </modulo>
+        <modulo codigo="0655">
+          <nombre>Gestión logística y comercial</nombre>
+          <horas>80</horas>
+        </modulo>
+        <modulo codigo="0656">
+          <nombre>Simulación empresarial</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0657">
+          <nombre>Proyecto de Administración y Finanzas</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="0660">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Erreka Mari</sede>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción A).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnica/o Superior en Administración y Finanzas.</titulacion>
+      <competencia>La competencia general de este título consiste en organizar y ejecutar las operaciones de gestión y administración en los procesos comerciales, laborales, contables, fiscales y financieros de una empresa pública o privada, aplicando la normativa vigente y los protocolos de gestión de calidad, gestionando la información, asegurando la satisfacción del cliente y/o usuario y actuando según las normas de prevención de riesgos laborales y protección medioambiental.</competencia>
+      <trabajo>Administrativo de oficina / comercial / financiero.</trabajo>
+      <trabajo>Administrarivo contable/ de logística.</trabajo>
+      <trabajo>Administrativo de banca y de seguros / de RRHH.</trabajo>
+      <trabajo>Administrarivo de la Administración pública.</trabajo>
+      <trabajo>Administrarivo de asesorías jurídicas, contables, laborales, fiscales o gestorías.</trabajo>
+      <trabajo>Técnico en gestión de cobros.</trabajo>
+      <trabajo>Responsable de atención al cliente.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+    <ciclo id="ADAD3">
+      <nombre>Asistencia a la Dirección</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0648">
+          <nombre>Recursos Humanos y responsabilidad social corporativa</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0649">
+          <nombre>Ofimática y proceso de la información</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0650">
+          <nombre>Proceso integral de la actividad comercial</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0651">
+          <nombre>Comunicación y atención al cliente</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0179">
+          <nombre>Inglés</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0665">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0647">
+          <nombre>Gestión de la documentación jurídica y empresarial</nombre>
+          <horas>100</horas>
+        </modulo>
+        <modulo codigo="0180">
+          <nombre>Segunda lengua extranjera</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0661">
+          <nombre>Protocolo empresarial</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0662">
+          <nombre>Organización de eventos empresariales</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0663">
+          <nombre>Gestión avanzada de la información</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0664">
+          <nombre>Proyecto de Asistencia a la Dirección</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="0667">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Erreka Mari</sede>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción A).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a Superior en Secretariado.</titulacion>
+      <competencia>La competencia general de este título consiste en asistir a la dirección y otros departamentos en las actividades de organización, representación de la entidad y funciones administrativa y documental; gestionar la información y la comunicación interna y externa de la misma y realizar otras tareas de delegación, utilizando, en caso necesario, la lengua inglesa y/u otra lengua extranjera, aplicando la normativa vigente y protocolos de gestión de calidad que aseguren la satisfacción del cliente o usuario y actuando según las normas de prevención de riesgos laborales y protección ambiental.</competencia>
+      <trabajo>Asistenta o asistente a la Dirección.</trabajo>
+      <trabajo>Asistenta o asistente personal.</trabajo>
+      <trabajo>Secretaria o secretario de Dirección.</trabajo>
+      <trabajo>Asistenta o asistente de despachos y oficinas.</trabajo>
+      <trabajo>Asistenta o asistente jurídico.</trabajo>
+      <trabajo>Asistenta o asistente en departamentos de Recursos Humanos.</trabajo>
+      <trabajo>Administrativas o administrativos en las Administraciones y Organismos Públicos.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+  </familia>
+  <familia id="CM">
+    <nombre>Comercio y Marketing</nombre>
+    <icono>euskadi/comercio-marketing.gif</icono>
+    <icono_p>madrid/peque/comercio.png</icono_p>
+    <icono_g>madrid/grande/comercio.png</icono_g>
+    <ciclo id="CMCI3">
+      <nombre>Comercio Internacional</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0622">
+          <nombre>Transporte internacional de mercancías</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0627">
+          <nombre>Gestión administrativa del comercio internacional</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0623">
+          <nombre>Gestión económica y financiera de la empresa</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0625">
+          <nombre>Logística de almacenamiento</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0179">
+          <nombre>Inglés</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0829">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0822">
+          <nombre>Sistema de información de mercados</nombre>
+          <horas>80</horas>
+        </modulo>
+        <modulo codigo="0823">
+          <nombre>Marketing internacional</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0827">
+          <nombre>Comercio digital internacional</nombre>
+          <horas>80</horas>
+        </modulo>
+        <modulo codigo="0824">
+          <nombre>Negociación internacional</nombre>
+          <horas>100</horas>
+        </modulo>
+        <modulo codigo="0825">
+          <nombre>Financiación internacional</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0826">
+          <nombre>Medios de pago internacionales</nombre>
+          <horas>100</horas>
+        </modulo>
+        <modulo codigo="0828">
+          <nombre>Proyecto de comercio internacional</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="0830">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Erreka Mari</sede>
+      <acceso_directo>Bachilleratos.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción A).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnica/o Superior en Comercio Internacional.</titulacion>
+      <competencia>La competencia general de este título consiste en planificar y gestionar a los procesos de importación/exportación e introducción/expedición de mercancías, aplicando la legislación vigente, en el marco de los objetivos y procedimientos establecidos.</competencia>
+      <trabajo>Técnico en comercio exterior.</trabajo>
+      <trabajo>Técnico de operaciones exteriores de entidades financieras y de seguros.</trabajo>
+      <trabajo>Técnico en administración de comercio internacional.</trabajo>
+      <trabajo>Asistente o adjunto de comercio internacional.</trabajo>
+      <trabajo>Agente de comercio internacional.</trabajo>
+      <trabajo>Técnico de marketing internacional.</trabajo>
+      <trabajo>Técnico de marketing digital internacional.</trabajo>
+      <trabajo>Técnico de venta internacional.</trabajo>
+      <trabajo>Asistente al departamento de operaciones comerciales internacionales.</trabajo>
+      <trabajo>Transitario.</trabajo>
+      <trabajo>Consignatario de buques.</trabajo>
+      <trabajo>Operador logístico.</trabajo>
+      <trabajo>Jefe de almacén.</trabajo>
+      <trabajo>Técnico en logística del transporte.</trabajo>
+      <trabajo>Coordinador logístico.</trabajo>
+      <trabajo>Técnico en logística inversa.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+    <ciclo id="CMAC2">
+      <nombre>Actividades Comerciales</nombre>
+      <tipo>Medio</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="1226">
+          <nombre>Marketing en la actividad comercial</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="1228">
+          <nombre>Técnicas de almacén</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="1229">
+          <nombre>Gestión de compras</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="1232">
+          <nombre>Procesos de venta</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="1233">
+          <nombre>Aplicaciones informáticas para el comercio</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="1235">
+          <nombre>Comercio electrónico</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0156">
+          <nombre>Inglés</nombre>
+          <horas>165</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="1227">
+          <nombre>Gestión de un pequeño comercio</nombre>
+          <horas>168</horas>
+        </modulo>
+        <modulo codigo="1230">
+          <nombre>Venta técnica</nombre>
+          <horas>126</horas>
+        </modulo>
+        <modulo codigo="1231">
+          <nombre>Dinamización del punto de venta</nombre>
+          <horas>147</horas>
+        </modulo>
+        <modulo codigo="1234">
+          <nombre>Servicios de atención comercial</nombre>
+          <horas>84</horas>
+        </modulo>
+        <modulo codigo="1236">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>105</horas>
+        </modulo>
+        <modulo codigo="1237">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>380</horas>
+        </modulo>
+      </segundo>
+      <sede>Erreka Mari</sede>
+      <acceso_directo>Graduado en Educación Secundaria.</acceso_directo>
+      <acceso_directo>REM I.</acceso_directo>
+      <acceso_directo>2º de BUP.</acceso_directo>
+      <acceso_directo>Título de Técnico o FP I.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGM.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso CFGS.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a en Comercio.</titulacion>
+      <competencia>La competencia general de este título consiste en desarrollar actividades de distribución y comercialización de bienes y/o servicios, y en gestionar un pequeño establecimiento comercial, aplicando las normas de calidad y seguridad establecidas y respetando la legislación vigente.</competencia>
+      <trabajo>Vendedor.</trabajo>
+      <trabajo>Vendedor/a técnico/a.</trabajo>
+      <trabajo>Administrador de contenidos online.</trabajo>
+      <trabajo>Operador de contact center.</trabajo>
+      <trabajo>Teleoperador/a (call center).</trabajo>
+      <trabajo>Orientador/a comercial.</trabajo>
+      <trabajo>Promotor/a.</trabajo>
+      <trabajo>Televendedor/a.</trabajo>
+      <trabajo>Venta a distancia.</trabajo>
+      <trabajo>Información/atención al cliente.</trabajo>
+      <trabajo>Cajero/a o reponedor/a.</trabajo>
+      <trabajo>Representante comercial.</trabajo>
+      <trabajo>Comerciante de tienda.</trabajo>
+      <trabajo>Gerente de pequeño comercio.</trabajo>
+      <trabajo>Técnico en gestión de stocks y almacén.</trabajo>
+      <trabajo>Jefe de almacén.</trabajo>
+      <trabajo>Responsable de recepción de mercancías.</trabajo>
+      <trabajo>Responsable de expedición de mercancías.</trabajo>
+      <trabajo>Técnico en logística de almacenes.</trabajo>
+      <trabajo>Técnico de información/atención al cliente en empresas.</trabajo>
+      <estudios>Bachillerato.</estudios>
+      <estudios>Ciclo Superior de FP mediante prueba de acceso.</estudios>
+    </ciclo>
+  </familia>
+  <familia id="EE">
+    <nombre>Electricidad-Electrónica</nombre>
+    <icono>euskadi/electricidad-electronica.gif</icono>
+    <icono_p>madrid/peque/electricidad.png</icono_p>
+    <icono_g>madrid/grande/electricidad.png</icono_g>
+    <ciclo id="EESA3">
+      <nombre>Sistemas electrotécnicos y automatizados</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0517">
+          <nombre>Procesos en instalaciones de infraestructuras comunes de telecomunicaciones</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0518">
+          <nombre>Técnicas y procesos en instalaciones eléctricas</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0519">
+          <nombre>Documentación técnica en instalaciones eléctricas</nombre>
+          <horas>66</horas>
+        </modulo>
+        <modulo codigo="0520">
+          <nombre>Sistemas y circuitos eléctricos</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0524">
+          <nombre>Configuración de instalaciones eléctricas</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0602">
+          <nombre>Gestión del montaje y mantenimiento de instalaciones</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0527">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0521">
+          <nombre>Técnicas y procesos en instalaciones domóticas</nombre>
+          <horas>180</horas>
+        </modulo>
+        <modulo codigo="0522">
+          <nombre>Desarrollo de redes eléctricas y centros de transformación</nombre>
+          <horas>160</horas>
+        </modulo>
+        <modulo codigo="0523">
+          <nombre>Configuración de instalaciones domóticas y automáticas</nombre>
+          <horas>160</horas>
+        </modulo>
+        <modulo codigo="0526">
+          <nombre>Proyecto de sistemas electrotécnicos y automatizados</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="E200">
+          <nombre>Inglés técnico</nombre>
+          <horas>40</horas>
+        </modulo>
+        <modulo codigo="0528">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0529">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <nota>Además de la la oferta en castellano, se pueden cursar algunos módulos en euskera.</nota>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción B).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a Superior en Sistemas Electrotécnicos y Automatizados.</titulacion>
+      <competencia>La competencia general de este Título consiste en desarrollar proyectos y en gestionar y supervisar el montaje y mantenimiento de instalaciones electrotécnicas en el ámbito del reglamento electrotécnico para baja tensión (REBT). También consiste en supervisar el mantenimiento de instalaciones e infraestructuras comunes de telecomunicaciones, a partir de la documentación técnica, especificaciones, normativa y procedimientos establecidos, asegurando el funcionamiento, la calidad, la seguridad y la conservación del medio ambiente.</competencia>
+      <trabajo>Esta figura profesional ejerce su actividad en empresas, mayoritariamente privadas, dedicadas al desarrollo de proyectos, gestión y supervisión del montaje y mantenimiento de instalaciones eléctricas en el entorno de edificios y con fines especiales, sistemas domóticos e inmóticos, infraestructuras de telecomunicación en edificios, redes eléctricas de baja y sistemas automatizados, bien por cuenta propia o ajena.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+    <ciclo id="EEIA2">
+      <nombre>Instalaciones eléctricas y automáticas</nombre>
+      <tipo>Medio</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0232">
+          <nombre>Automatismos industriales</nombre>
+          <horas>264</horas>
+        </modulo>
+        <modulo codigo="0233">
+          <nombre>Electrónica</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0234">
+          <nombre>Electrotecnia</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0235">
+          <nombre>Instalaciones eléctricas interiores</nombre>
+          <horas>297</horas>
+        </modulo>
+        <modulo codigo="0239">
+          <nombre>Instalaciones solares fotovoltáicas</nombre>
+          <horas>66</horas>
+        </modulo>
+        <modulo codigo="E100">
+          <nombre>Inglés técnico</nombre>
+          <horas>33</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0236">
+          <nombre>Instalaciones de distribución</nombre>
+          <horas>105</horas>
+        </modulo>
+        <modulo codigo="0237">
+          <nombre>Infraestructuras comunes de telecomunicación en viviendas y edificios</nombre>
+          <horas>105</horas>
+        </modulo>
+        <modulo codigo="0238">
+          <nombre>Instalaciones domóticas</nombre>
+          <horas>126</horas>
+        </modulo>
+        <modulo codigo="0240">
+          <nombre>Máquinas eléctricas</nombre>
+          <horas>126</horas>
+        </modulo>
+        <modulo codigo="0241">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>105</horas>
+        </modulo>
+        <modulo codigo="0242">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>63</horas>
+        </modulo>
+        <modulo codigo="0243">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>380</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <acceso_directo>Graduado en Educación Secundaria.</acceso_directo>
+      <acceso_directo>REM I.</acceso_directo>
+      <acceso_directo>2º de BUP.</acceso_directo>
+      <acceso_directo>Título de Técnico o FP I.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGM.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso CFGS.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a en Instalaciones Eléctricas y Automáticas.</titulacion>
+      <competencia>Montaje y mantenimiento de instalaciones eléctricas de baja tensión.</competencia>
+      <competencia>Montaje y mantenimiento de infraestructuras de telecomunicaciones en edificios.</competencia>
+      <competencia>Montaje y mantenimiento de instalaciones solares fotovoltáicas.</competencia>
+      <trabajo>Instalador/a mantenedor/a electricista.</trabajo>
+      <trabajo>Electricista de construcción.</trabajo>
+      <trabajo>Electricista industrial.</trabajo>
+      <trabajo>Electricista de mantenimiento.</trabajo>
+      <trabajo>Instalador/a mantenedor/a de sistemas domóticos.</trabajo>
+      <trabajo>Instalador/a mantenedor/a de antenas.</trabajo>
+      <trabajo>Instalador/a de telecomunicaciones en edificios de viviendas.</trabajo>
+      <trabajo>Instalador/a mantenedor/a de equipos e instalaciones telefónicas.</trabajo>
+      <trabajo>Montador/a de instalaciones de energía solar fotovoltáica.</trabajo>
+      <estudios>Bachillerato. Se convalida la asignatura de Electrotecnia.</estudios>
+      <estudios>Ciclo Superior de FP mediante prueba de acceso.</estudios>
+    </ciclo>
+  </familia>
+  <familia id="EO">
+    <nombre>Edificación y Obra Civil</nombre>
+    <icono>euskadi/edificacion-obra-civil.gif</icono>
+    <icono_p>madrid/peque/edificacion.png</icono_p>
+    <icono_g>madrid/grande/edificacion.png</icono_g>
+    <ciclo id="EOPO3">
+      <nombre>Proyectos de Obra Civil</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0562">
+          <nombre>Estructuras de construcción</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0563">
+          <nombre>Representaciones de construcción</nombre>
+          <horas>330</horas>
+        </modulo>
+        <modulo codigo="0564">
+          <nombre>Mediciones y valoraciones de construcción</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0769">
+          <nombre>Urbanismo y obra civil</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0770">
+          <nombre>Redes y servicios en obra civil</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0771">
+          <nombre>Levantamientos topográficos</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0775">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0565">
+          <nombre>Replanteos de construcción</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0566">
+          <nombre>Planificación de construcción</nombre>
+          <horas>80</horas>
+        </modulo>
+        <modulo codigo="0772">
+          <nombre>Desarrollo de proyectos urbanísticos</nombre>
+          <horas>180</horas>
+        </modulo>
+        <modulo codigo="0773">
+          <nombre>Desarrollo de proyectos de obras lineales</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0774">
+          <nombre>Proyecto en obra civil</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="E200">
+          <nombre>Inglés técnico</nombre>
+          <horas>40</horas>
+        </modulo>
+        <modulo codigo="0776">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0777">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <nota>Además de la la oferta en castellano, se pueden cursar algunos módulos en euskera.</nota>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción B).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas.</titulacion>
+      <competencia>La competencia general de este título consiste en elaborar la documentación técnica de proyectos de obra civil y de ordenación del territorio, realizar levantamientos y replanteos de obras de construcción y gestionar el control documental para su ejecución, respetando la normativa vigente y las condiciones establecidas de calidad, seguridad y medio ambiente.</competencia>
+      <trabajo>Delineante proyectista de carreteras.</trabajo>
+      <trabajo>Delineante proyectista de urbanización.</trabajo>
+      <trabajo>Delineante de obra civil.</trabajo>
+      <trabajo>Delineante de servicios urbanos.</trabajo>
+      <trabajo>Práctico en topografía.</trabajo>
+      <trabajo>Especialista en levantamento de terrenos.</trabajo>
+      <trabajo>Especialista en levantamiento de construcciones.</trabajo>
+      <trabajo>Especialista en replanteos.</trabajo>
+      <trabajo>Aparatista.</trabajo>
+      <trabajo>Delineante de topografía.</trabajo>
+      <trabajo>Ayudanta o ayudante de Jefe de Oficina Técnica.</trabajo>
+      <trabajo>Ayudanta o ayudante de Planificador.</trabajo>
+      <trabajo>Ayudanta o ayudante de Técnico de Control de Costes.</trabajo>
+      <trabajo>Técnica o técnico de control documental.</trabajo>
+      <trabajo>Maquetista de construcción.</trabajo>
+      <trabajo>Delineante proyectista de redes y sistemas de distribución de fluidos.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+  </familia>
+  <familia id="FM">
+    <nombre>Fabricación Mecánica</nombre>
+    <icono>euskadi/fabricacion-mecanica.gif</icono>
+    <icono_p>madrid/peque/fabmecanica.png</icono_p>
+    <icono_g>madrid/grande/fabmecanica.png</icono_g>
+    <ciclo id="FMDF3">
+      <nombre>Diseño en fabricación mecánica</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0245">
+          <nombre>Representación gráfica en fabricación mecánica</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0247">
+          <nombre>Diseño de productos mecánicos</nombre>
+          <horas>297</horas>
+        </modulo>
+        <modulo codigo="0431">
+          <nombre>Automatización de la fabricación</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0432">
+          <nombre>Técnicas de fabricación mecánica</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0434">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0428">
+          <nombre>Diseño de útiles de procesado de chapa y estampación</nombre>
+          <horas>240</horas>
+        </modulo>
+        <modulo codigo="0429">
+          <nombre>Diseño de moldes y modelos de fundición</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0430">
+          <nombre>Diseño de moldes para productos poliméricos</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0433">
+          <nombre>Proyecto de diseño de productos mecánicos</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="E200">
+          <nombre>Inglés técnico</nombre>
+          <horas>40</horas>
+        </modulo>
+        <modulo codigo="0435">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0436">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción B).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a Superior en Diseño en Fabricación Mecánica.</titulacion>
+      <competencia>Esta figura profesional ejerce su actividad en el sector de las industrias transformadoras de metales, polímeros, elastómeros y materiales compuestos relacionadas con los subsectores de construcción de maquinaria y equipo mecánico, de material y equipo eléctrico electrónico y óptico, y de material de transporte encuadrado en el sector industrial.</competencia>
+      <trabajo>Delineante proyectista.</trabajo>
+      <trabajo>Técnica o Técnico en CAD.</trabajo>
+      <trabajo>Técnica o Técnico en desarrollo de productos.</trabajo>
+      <trabajo>Técnica o Técnico en desarrollo de matrices.</trabajo>
+      <trabajo>Técnica o Técnico en desarrollo de utillajes.</trabajo>
+      <trabajo>Técnica o Técnico en desarrollo de moldes.</trabajo>
+      <trabajo>Técnica o Técnico de desarrollo de productos y moldes.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+    <ciclo id="FMPP3">
+      <nombre>Programación de la producción en Fabricación Mecánica</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0007">
+          <nombre>Interpretación gráfica</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0160">
+          <nombre>Definición de procesos de mecanizado, conformado y montaje</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0164">
+          <nombre>Ejecución de procesos de fabricación</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0165">
+          <nombre>Gestión de la calidad, prevención de riesgos laborales y protección ambiental</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0166">
+          <nombre>Verificación de productos</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0168">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0002">
+          <nombre>Mecanizado por control numérico</nombre>
+          <horas>240</horas>
+        </modulo>
+        <modulo codigo="0161">
+          <nombre>Fabricación asistida por ordenador</nombre>
+          <horas>40</horas>
+        </modulo>
+        <modulo codigo="0162">
+          <nombre>Programación de sistemas automáticos de fabricación mecánica</nombre>
+          <horas>100</horas>
+        </modulo>
+        <modulo codigo="0163">
+          <nombre>Programación de la produccción</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0167">
+          <nombre>Proyecto de fabricación de productos mecánicos</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="E200">
+          <nombre>Inglés técnico</nombre>
+          <horas>40</horas>
+        </modulo>
+        <modulo codigo="0169">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0170">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción B).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a Superior en Programación de la Producción en Fabricación Mecánica.</titulacion>
+      <competencia>Producción de mecanizado, conformado y montaje mecánico.</competencia>
+      <competencia>Gestión de la producción en fabricación mecánica.</competencia>
+      <trabajo>Técnico/a en mecánica.</trabajo>
+      <trabajo>Encargado/a de instalaciones de procesamiento de metales.</trabajo>
+      <trabajo>Encargado/a de operadores de máquinas para trabajar metales.</trabajo>
+      <trabajo>Encargado/a de montadores.</trabajo>
+      <trabajo>Programador/a de CNC.</trabajo>
+      <trabajo>Programador/a de sistemas automatizados en fabricación mecánica.</trabajo>
+      <trabajo>Programador/a de la producción.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+    <ciclo id="FMME2">
+      <nombre>Mecanizado</nombre>
+      <tipo>Medio</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0001">
+          <nombre>Procesos de mecanizado</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0004">
+          <nombre>Fabricación por arranque de viruta</nombre>
+          <horas>363</horas>
+        </modulo>
+        <modulo codigo="0005">
+          <nombre>Sistemas automatizados</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0006">
+          <nombre>Metrología y ensayos</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0007">
+          <nombre>Interpretación gráfica</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="E100">
+          <nombre>Inglés técnico</nombre>
+          <horas>33</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0002">
+          <nombre>Mecanizado por control numérico</nombre>
+          <horas>252</horas>
+        </modulo>
+        <modulo codigo="0003">
+          <nombre>Fabricación por abrasión, electroerosión, corte y conformado y por procesos especiales</nombre>
+          <horas>210</horas>
+        </modulo>
+        <modulo codigo="0008">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>105</horas>
+        </modulo>
+        <modulo codigo="0009">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>63</horas>
+        </modulo>
+        <modulo codigo="0010">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>380</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <nota>Además de la la oferta en castellano, se pueden cursar algunos módulos en euskera.</nota>
+      <acceso_directo>Graduado en Educación Secundaria.</acceso_directo>
+      <acceso_directo>REM I.</acceso_directo>
+      <acceso_directo>2º de BUP.</acceso_directo>
+      <acceso_directo>Título de Técnico o FP I.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGM.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso CFGS.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a en Mecanizado.</titulacion>
+      <competencia>Mecanizado por arranque de viruta.</competencia>
+      <competencia>Mecanizado por abrasión, electroerosión y procedimientos especiales.</competencia>
+      <competencia>Mecanizado por corte y conformado.</competencia>
+      <trabajo>Ajustador/a operario/a de máquinas herramientas.</trabajo>
+      <trabajo>Pulidor/a de metales y afilador/a de herramientas.</trabajo>
+      <trabajo>Operador/a de máquinas para trabajar metales.</trabajo>
+      <trabajo>Operador/a de máquinas herramientas.</trabajo>
+      <trabajo>Operador/a de robots industriales.</trabajo>
+      <trabajo>Trabajadores y trabajadoras de la fabricación de herramientas, mecánicos/as y ajustadores/as, modelistas matriceros/as, y asimilados/as.</trabajo>
+      <trabajo>Tornero/a, fresador/a y mandrinador/a.</trabajo>
+      <estudios>Bachillerato.</estudios>
+      <estudios>Ciclo Superior de FP mediante prueba de acceso.</estudios>
+    </ciclo>
+    <ciclo id="FMSC2">
+      <nombre>Soldadura y calderería</nombre>
+      <tipo>Medio</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0007">
+          <nombre>Interpretación gráfica</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0091">
+          <nombre>Trazado, corte y conformado</nombre>
+          <horas>264</horas>
+        </modulo>
+        <modulo codigo="0092">
+          <nombre>Mecanizado</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0093">
+          <nombre>Soldadura en atmósfera natural</nombre>
+          <horas>264</horas>
+        </modulo>
+        <modulo codigo="0006">
+          <nombre>Metrología y ensayos</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="E100">
+          <nombre>Inglés técnico</nombre>
+          <horas>33</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0094">
+          <nombre>Soldadura en atmósfera protegida</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0095">
+          <nombre>Montaje</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0096">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>105</horas>
+        </modulo>
+        <modulo codigo="0097">
+          <nombre>Empresa e iniciativa emprendedora 63 h</nombre>
+          <horas/>
+        </modulo>
+        <modulo codigo="0098">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>380</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <nota>Además de la la oferta en castellano, se pueden cursar algunos módulos en euskera.</nota>
+      <acceso_directo>Graduado en Educación Secundaria</acceso_directo>
+      <acceso_directo>REM I.</acceso_directo>
+      <acceso_directo>2º de BUP.</acceso_directo>
+      <acceso_directo>Título de Técnico o FP I.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGM.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso CFGS.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a en Soldadura y Calderería.</titulacion>
+      <competencia>Soldadura.</competencia>
+      <competencia>Calderería, carpintería y montaje de construcciones metálicas.</competencia>
+      <competencia>Fabricación y montaje de instalaciones de tubería industrial.</competencia>
+      <trabajo>Soldadores/as y oxicortadores/as.</trabajo>
+      <trabajo>Operadores/as de proyección térmica.</trabajo>
+      <trabajo>Chapistas y caldereros/as.</trabajo>
+      <trabajo>Montadores/as de estructuras metálicas.</trabajo>
+      <trabajo>Carpintero/a metálico/a.</trabajo>
+      <trabajo>Tubero/a industrial de Industria pesada.</trabajo>
+      <estudios>Bachillerato.</estudios>
+      <estudios>Ciclo Superior de FP mediante prueba de acceso.</estudios>
+    </ciclo>
+  </familia>
+  <familia id="HT">
+    <nombre>Hostelería y Turismo</nombre>
+    <icono>euskadi/hosteleria-turismo.gif</icono>
+    <icono_p>madrid/peque/hosteleria.png</icono_p>
+    <icono_g>madrid/grande/hosteleria.png</icono_g>
+    <ciclo id="HTAV3">
+      <nombre>Agencias de viajes y gestión de eventos</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0171">
+          <nombre>Estructura del mercado turístico</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0172">
+          <nombre>Protocolo y relaciones públicas</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0173">
+          <nombre>Marketing turístico</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0383">
+          <nombre>Destinos turísticos</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0384">
+          <nombre>Recursos turísticos</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0179">
+          <nombre>Inglés</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0401">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0397">
+          <nombre>Gestión de productos turísticos</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0398">
+          <nombre>Venta de servicios turísticos</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0399">
+          <nombre>Dirección de entidades de intermediación turística</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0180">
+          <nombre>Segunda lengua extranjera</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0400">
+          <nombre>Proyecto de agencias de viajes y gestión de eventos</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="0402">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0403">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Erreka Mari</sede>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción A).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a Superior en Agencias de Viajes y Gestión de Eventos.</titulacion>
+      <competencia>La competencia general de este título consiste en programar y realizar viajes combinados y todo tipo de eventos, vender servicios turísticos en agencias de viajes y a través de otras unidades de distribución, proponiendo acciones para el desarrollo de sus programas de marketing y asegurando la satisfacción de los clientes.</competencia>
+      <trabajo>Jefa o jefe de oficina de agencia de viajes.</trabajo>
+      <trabajo>Jefa o jefe de departamento en agencia de viajes.</trabajo>
+      <trabajo>Agente de viajes.</trabajo>
+      <trabajo>Consultora o consultor de viajes.</trabajo>
+      <trabajo>Organizadora u organizador de eventos.</trabajo>
+      <trabajo>Vendedora o vendedor de servicios de viaje y viajes programados.</trabajo>
+      <trabajo>Promotora o promotor comercial de viajes y servicios turísticos.</trabajo>
+      <trabajo>Empleada o empleado del departamento de “booking” o reservas.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+    <ciclo id="HTGI3">
+      <nombre>Guía, información y asistencias turísticas</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0171">
+          <nombre>Estructura del mercado turístico</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0172">
+          <nombre>Protocolo y relaciones públicas</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0173">
+          <nombre>Marketing turístico</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0383">
+          <nombre>Destinos turísticos</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0384">
+          <nombre>Recursos turísticos</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0179">
+          <nombre>Inglés</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0389">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0385">
+          <nombre>Servicios de información turística</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0386">
+          <nombre>Procesos de guía y asistencia turística</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0387">
+          <nombre>Diseño de productos turísticos</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0180">
+          <nombre>Segunda lengua extranjera</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0388">
+          <nombre>Proyecto de guía, información y asistencia turísticas</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="0390">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0391">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Erreka Mari</sede>
+      <acceso_directo>Bachilleratos.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción A).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a Superior en Guía, Información y Asistencia Turísticas.</titulacion>
+      <competencia>La competencia general de este título consiste en planificar, promocionar e informar sobre destinos turísticos de base territorial, guiando y asistiendo a viajeras o viajeros y a la clientela en los mismos, así como en terminales, medios de transporte, eventos y otros destinos turísticos.</competencia>
+      <trabajo>Guía acompañante y guía local.</trabajo>
+      <trabajo>Guía en emplazamientos de bienes de interés cultural.</trabajo>
+      <trabajo>Informadora turística o informador turístico.</trabajo>
+      <trabajo>Jefa o jefe de oficinas de información.</trabajo>
+      <trabajo>Promotora turística o promotor turístico.</trabajo>
+      <trabajo>Técnica o técnico de empresa de consultoría turística.</trabajo>
+      <trabajo>Agente de desarrollo turístico local.</trabajo>
+      <trabajo>Azafata/Asistenta o azafato/asistente en medios de transporte terrestre o marítimo.</trabajo>
+      <trabajo>Asistenta o asistente en terminales (estaciones, puertos y aeropuertos).</trabajo>
+      <trabajo>Encargada o encargado de facturación en terminales de transporte.</trabajo>
+      <trabajo>Asistenta o asistente en ferias, congresos y convenciones.</trabajo>
+      <trabajo>Encargada o encargado de servicios en eventos.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+  </familia>
+  <familia id="IM">
+    <nombre>Instalación y Mantenimiento</nombre>
+    <icono>euskadi/instalacion-mantenimiento.gif</icono>
+    <icono_p>madrid/peque/instmantenimiento.png</icono_p>
+    <icono_g>madrid/grande/instmantenimiento.png</icono_g>
+    <ciclo id="IMMI3">
+      <nombre>Mantenimiento de instalaciones térmicas y de fluidos</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0120">
+          <nombre>Sistemas eléctricos y automáticos</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0121">
+          <nombre>Equipos e instalaciones térmicas</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0122">
+          <nombre>Procesos de montaje de instalaciones</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0123">
+          <nombre>Representación gráfica de instalaciones</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0124">
+          <nombre>Energías renovables y eficiencia energética</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0138">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0133">
+          <nombre>Gestión del montaje, de la calidad y del mantenimiento</nombre>
+          <horas>80</horas>
+        </modulo>
+        <modulo codigo="0134">
+          <nombre>Configuración de instalaciones térmicas y de fluidos</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0135">
+          <nombre>Mantenimiento de instalaciones frigoríficas y de climatización</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0136">
+          <nombre>Mantenimiento de instalaciones caloríficas y de fluidos</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0137">
+          <nombre>Proyecto de mantenimiento de instalaciones térmicas y de fluidos</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="E200">
+          <nombre>Inglés técnico</nombre>
+          <horas>40</horas>
+        </modulo>
+        <modulo codigo="0139">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0140">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción B).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a en Mantenimiento de Instalaciones Térmicas y de Fluidos.</titulacion>
+      <competencia>Planificación, gestión y realización del mantenimiento y supervisión del montaje de redes y sistemas de distribución de fluidos.</competencia>
+      <competencia>Planificación gestión y realización del mantenimiento y supervisión del montaje de instalaciones caloríficas.</competencia>
+      <competencia>Planificación gestión y realización del mantenimiento y supervisión del montaje de instalaciones de climatización y ventilación-extracción.</competencia>
+      <competencia>Planificación gestión y realización del mantenimiento y supervisión del montaje de instalaciones frigoríficas.</competencia>
+      <trabajo>Técnico/a en Planificación y Programación de procesos de mantenimiento de instalaciones térmicas y de fluidos.</trabajo>
+      <trabajo>Jefe/a de equipo de montadores de redes y sistemas de distribución de fluidos.</trabajo>
+      <trabajo>Jefe/a de mantenedores.</trabajo>
+      <trabajo>Técnico/a de frío industrial.</trabajo>
+      <trabajo>Frigorista.</trabajo>
+      <trabajo>Técnico/a de climatización y ventilación</trabajo>
+      <trabajo>extracción.</trabajo>
+      <trabajo>Técnico/a de redes y sistemas de distribución de fluidos.</trabajo>
+      <trabajo>Técnico/a de instalaciones caloríficas.</trabajo>
+      <trabajo>Instalador/a de calefacción y ACS.</trabajo>
+      <trabajo>Mantenedor/a de calefacción y ACS.</trabajo>
+      <trabajo>Técnico/a de mantenimiento de instalaciones auxiliares de la producción.</trabajo>
+      <trabajo>Supervisor/a de montaje de instalaciones térmicas.</trabajo>
+      <trabajo>Jefe/a de equipo de mantenimiento de instalaciones de calor.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+  </familia>
+  <familia id="IN">
+    <nombre>Informática y Comunicación</nombre>
+    <icono>euskadi/informatica-comunicaciones.gif</icono>
+    <icono_p>madrid/peque/inforcomunicaciones.png</icono_p>
+    <icono_g>madrid/grande/inforcomunicaciones.png</icono_g>
+    <ciclo id="INAR3">
+      <nombre>Administración de sistemas informáticos en red</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0369">
+          <nombre>Implantación de sistemas operativos</nombre>
+          <horas>264</horas>
+        </modulo>
+        <modulo codigo="0370">
+          <nombre>Planificación y administración de redes</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0371">
+          <nombre>Fundamentos de hardware</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0372">
+          <nombre>Gestión de bases de datos</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0373">
+          <nombre>Lenguajes de marcas y sistemas de gestión de información</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0380">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0374">
+          <nombre>Administración de sistemas operativos</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0375">
+          <nombre>Servicios de red e internet</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0376">
+          <nombre>Implantación de aplicaciones web</nombre>
+          <horas>100</horas>
+        </modulo>
+        <modulo codigo="0377">
+          <nombre>Administración de sistemas gestores de bases de datos</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0378">
+          <nombre>Seguridad y alta disponibilidad</nombre>
+          <horas>100</horas>
+        </modulo>
+        <modulo codigo="0379">
+          <nombre>Proyecto de administración de sistemas informáticos en red</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="E200">
+          <nombre>Inglés técnico</nombre>
+          <horas>40</horas>
+        </modulo>
+        <modulo codigo="0381">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0382">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <nota>Además de en castellano, este ciclo se ofrece en modelo mixto (castellano + euskera) y modelo plurilingüe (castellano + euskera + inglés).</nota>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción B).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a Superior en Administración de Sistemas Informáticos en Red.</titulacion>
+      <competencia>La competencia general de este título consiste en configurar, administrar y mantener sistemas informáticos, garantizando la funcionalidad, la integridad de los recursos y servicios del sistema, con la calidad exigida y cumpliendo la reglamentación vigente.</competencia>
+      <trabajo>Técnica o Técnico en administración de sistemas.</trabajo>
+      <trabajo>Responsable de informática..</trabajo>
+      <trabajo>Técnica o Técnico en servicios de Internet.</trabajo>
+      <trabajo>Técnica o Técnico en servicios de mensajería electrónica.</trabajo>
+      <trabajo>Personal de apoyo y soporte técnico.</trabajo>
+      <trabajo>Técnica o Técnico en teleasistencia.</trabajo>
+      <trabajo>Técnica o Técnico en administración de base de datos.</trabajo>
+      <trabajo>Técnica o Técnico de redes.</trabajo>
+      <trabajo>Supervisora o Supervisor de sistemas.</trabajo>
+      <trabajo>Técnica o Técnico en servicios de comunicaciones.</trabajo>
+      <trabajo>Técnica o Técnico en entornos web.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+    <ciclo id="INDM3">
+      <nombre>Desarrollo de Aplicaciones Multiplataforma</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0483">
+          <nombre>Sistemas informáticos</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0484">
+          <nombre>Bases de datos</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0485">
+          <nombre>Programación</nombre>
+          <horas>264</horas>
+        </modulo>
+        <modulo codigo="0373">
+          <nombre>Lenguajes de marcas y sistemas de gestión informática</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0487">
+          <nombre>Entornos de desarrollo</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="E200">
+          <nombre>Inglés técnico</nombre>
+          <horas>33</horas>
+        </modulo>
+        <modulo codigo="0493">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0486">
+          <nombre>Acceso a datos</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0488">
+          <nombre>Desarrollo de interfaces</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0489">
+          <nombre>Programación multimedia y dispositivos móviles</nombre>
+          <horas>100</horas>
+        </modulo>
+        <modulo codigo="0490">
+          <nombre>Programación de servicios y procesos</nombre>
+          <horas>80</horas>
+        </modulo>
+        <modulo codigo="0491">
+          <nombre>Sistemas de gestión empresarial</nombre>
+          <horas>100</horas>
+        </modulo>
+        <modulo codigo="0492">
+          <nombre>Proyecto de desarrollo de aplicaciones multiplataforma</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="0494">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0495">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <nota>Además de la la oferta en castellano, se pueden cursar algunos módulos en euskera.</nota>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción B).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a Superior en Desarrollo de Aplicaciones Multiplataforma.</titulacion>
+      <competencia>Desarrollar aplicaciones multiplataforma con acceso a bases de datos utilizando lenguajes, librerías y herramientas adecuados a las especificaciones.</competencia>
+      <competencia>Desarrollar interfaces gráficos de usuario interactivos y con la usabilidad adecuada, empleando componentes visuales estándar o implementando componentes visuales específicos.</competencia>
+      <competencia>Desarrollar aplicaciones para teléfonos, PDA y otros dispositivos móviles empleando técnicas y entornos de desarrollo específicos.</competencia>
+      <competencia>Desarrollar aplicaciones multiproceso y multihilo empleando librerías y técnicas de programación específicas capaces de ofrecer servicios en red empleando mecanismos de comunicación.</competencia>
+      <trabajo>Desarrollar aplicaciones informáticas para la gestión empresarial y de negocio.</trabajo>
+      <trabajo>Desarrollar aplicaciones de propósito general.</trabajo>
+      <trabajo>Desarrollar aplicaciones en el ámbito del entretenimiento y la informática móvil.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+    <ciclo id="INDW3">
+      <nombre>Desarrollo de aplicaciones web</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0483">
+          <nombre>Sistemas informáticos</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0484">
+          <nombre>Bases de datos</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="0485">
+          <nombre>Programación</nombre>
+          <horas>264</horas>
+        </modulo>
+        <modulo codigo="0373">
+          <nombre>Lenguajes de marcas y sistemas de gestión informática</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0487">
+          <nombre>Entornos de desarrollo</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="E200">
+          <nombre>Inglés técnico</nombre>
+          <horas>33</horas>
+        </modulo>
+        <modulo codigo="0617">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0612">
+          <nombre>Desarrollo web en entorno cliente</nombre>
+          <horas>140</horas>
+        </modulo>
+        <modulo codigo="0613">
+          <nombre>Desarrollo web en entorno servidor</nombre>
+          <horas>180</horas>
+        </modulo>
+        <modulo codigo="0614">
+          <nombre>Despliegue de aplicaciones web</nombre>
+          <horas>100</horas>
+        </modulo>
+        <modulo codigo="0615">
+          <nombre>Diseño de interfaces web</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0616">
+          <nombre>Proyecto de desarrollo de aplicaciones web</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="0618">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0619">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <nota>El horario de impartición del ciclo será de 15:00 a 21:30 h.</nota>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción B).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a Superior en Desarrollo de Aplicaciones Web.</titulacion>
+      <competencia>Desarrollar aplicaciones web con acceso a bases de datos utilizando lenguajes y herramientas para su gestión, interpretando su diseño lógico.</competencia>
+      <competencia>Desarrollar interfaces en aplicaciones web de acuerdo a un manual de estilo, utilizando lenguajes de marcas y estándares web.</competencia>
+      <competencia>Desarrollar componentes multimedia para su integración en aplicaciones web, empleando herramientas y lenguajes específicos, para cumplir las especificaciones de la aplicación.</competencia>
+      <competencia>Desarrollar e integrar componentes de software en el entorno del servidor web, empleando herramientas y lenguajes específicos, para cumplir las especificaciones de la aplicación.</competencia>
+      <competencia>Desarrrollar servicios para integrar sus funciones en otras aplicaciones web, asegurando su funcionalidad.</competencia>
+      <trabajo>Programadora o programador web.</trabajo>
+      <trabajo>Programadora o programador multimedia.</trabajo>
+      <trabajo>Desarrolladora o desarrollador de aplicaciones en entornos web.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+    <ciclo id="INSM2">
+      <nombre>Sistemas microinformáticos y Redes</nombre>
+      <tipo>Medio</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0221">
+          <nombre>Montaje y mantenimiento de equipo</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0222">
+          <nombre>Sistemas operativos monopuesto</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="0223">
+          <nombre>Aplicaciones ofimáticas</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0225">
+          <nombre>Redes locales</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0226">
+          <nombre>Seguridad informática</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="E100">
+          <nombre>Inglés técnico</nombre>
+          <horas>33</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0224">
+          <nombre>Sistemas operativos en red</nombre>
+          <horas>168</horas>
+        </modulo>
+        <modulo codigo="0227">
+          <nombre>Servicios en red</nombre>
+          <horas>189</horas>
+        </modulo>
+        <modulo codigo="0228">
+          <nombre>Aplicaciones web</nombre>
+          <horas>105</horas>
+        </modulo>
+        <modulo codigo="0230">
+          <nombre>Empresa e iniciativa emprendedora 63 h</nombre>
+          <horas/>
+        </modulo>
+        <modulo codigo="0229">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>105</horas>
+        </modulo>
+        <modulo codigo="0231">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>380</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <acceso_directo>Graduado en Educación Secundaria.</acceso_directo>
+      <acceso_directo>REM I.</acceso_directo>
+      <acceso_directo>2º de BUP.</acceso_directo>
+      <acceso_directo>Título de Técnico o FP I.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGM.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso CFGS.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a en Sistemas Microinformáticos y Redes.</titulacion>
+      <competencia>Sistemas microinformáticos.</competencia>
+      <competencia>Montaje y reparación de sistemas microinformáticos.</competencia>
+      <competencia>Operación de redes departamentales.</competencia>
+      <competencia>Operación de sistemas informáticos.</competencia>
+      <trabajo>Técnico/a instalador/a</trabajo>
+      <trabajo>reparador/a de equipos informáticos.</trabajo>
+      <trabajo>Técnico/a de soporte informático.</trabajo>
+      <trabajo>Técnico/a de redes de datos.</trabajo>
+      <trabajo>Reparador/a de periféricos de sistemas microinformáticos.</trabajo>
+      <trabajo>Comercial de microinformática.</trabajo>
+      <trabajo>Operador/a de teleasistencia.</trabajo>
+      <trabajo>Operador/a de sistemas.</trabajo>
+      <estudios>Bachillerato.</estudios>
+      <estudios>Ciclo Superior de FP mediante prueba de acceso.</estudios>
+    </ciclo>
+  </familia>
+  <familia id="QU">
+    <nombre>Química</nombre>
+    <icono>euskadi/quimica.gif</icono>
+    <icono_p>madrid/peque/quimica.png</icono_p>
+    <icono_g>madrid/grande/quimica.png</icono_g>
+    <ciclo id="QULA3">
+      <nombre>Laboratorio de análisis y control de calidad</nombre>
+      <tipo>Superior</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="0065">
+          <nombre>Muestreo y preparación de la muestra</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="0066">
+          <nombre>Análisis químicos</nombre>
+          <horas>297</horas>
+        </modulo>
+        <modulo codigo="0068">
+          <nombre>Ensayos físicos</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0069">
+          <nombre>Ensayos fisicoquímicos</nombre>
+          <horas>132</horas>
+        </modulo>
+        <modulo codigo="0072">
+          <nombre>Calidad y seguridad en el laboratorio</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="0074">
+          <nombre>Formación y Orientación Laboral</nombre>
+          <horas>99</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="0067">
+          <nombre>Análisis instrumental</nombre>
+          <horas>200</horas>
+        </modulo>
+        <modulo codigo="0070">
+          <nombre>Ensayos microbiológicos</nombre>
+          <horas>180</horas>
+        </modulo>
+        <modulo codigo="0071">
+          <nombre>Ensayos biotecnológicos</nombre>
+          <horas>120</horas>
+        </modulo>
+        <modulo codigo="0073">
+          <nombre>Proyecto de laboratorio de análisis y control de calidad</nombre>
+          <horas>50</horas>
+        </modulo>
+        <modulo codigo="E200">
+          <nombre>Inglés técnico</nombre>
+          <horas>40</horas>
+        </modulo>
+        <modulo codigo="0075">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>60</horas>
+        </modulo>
+        <modulo codigo="0076">
+          <nombre>Formación en Centros de Trabajo</nombre>
+          <horas>360</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <acceso_directo>Bachillerato.</acceso_directo>
+      <acceso_directo>COU, FPII, REM II.</acceso_directo>
+      <acceso_directo>Ciclo formativo de grado medio.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGS (Opción C).</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a en Laboratorio de Análisis y Control de Calidad.</titulacion>
+      <competencia>Organización y control de procesos de química básica.</competencia>
+      <competencia>Organización y control de los procesos de química transformadora.</competencia>
+      <trabajo>Encargado/a de planta química.</trabajo>
+      <trabajo>Encargado/a de operaciones de máquinas para fabricar, transformar y acondicionar productos químicos.</trabajo>
+      <trabajo>Supervisor/a de área de producción de energía.</trabajo>
+      <trabajo>Supervisor/a de área de servicios auxiliares.</trabajo>
+      <trabajo>Supervisor/a de refinerías de petróleo y gas natural.</trabajo>
+      <trabajo>Jefe/a de equipo en instalaciones de tratamiento químico.</trabajo>
+      <trabajo>Jefe/a de equipo en almacenes en industrias químicas.</trabajo>
+      <trabajo>Jefe/a de parque de tanques en industrias químicas.</trabajo>
+      <trabajo>Jefe/a de zona de recepción y expedición de materias y productos químicos.</trabajo>
+      <trabajo>Supervisor/a de sistemas de control.</trabajo>
+      <trabajo>Supervisor/a de de cuarto de control.</trabajo>
+      <trabajo>Supervisor/a de de área en plantas de química de transformación.</trabajo>
+      <trabajo>Supervisor/a de de área de acondicionado.</trabajo>
+      <trabajo>Responsable de formulación.</trabajo>
+      <estudios>Acceso directo a la Universidad.</estudios>
+    </ciclo>
+    <ciclo id="QUOL2">
+      <nombre>Operaciones de Laboratorio</nombre>
+      <tipo>Medio</tipo>
+      <horas>2000</horas>
+      <primero>
+        <modulo codigo="1249">
+          <nombre>Química aplicada</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="1250">
+          <nombre>Muestreo y operaciones unitarias de laboratorio</nombre>
+          <horas>198</horas>
+        </modulo>
+        <modulo codigo="1252">
+          <nombre>Servicios auxiliares en el laboratorio</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="1253">
+          <nombre>Seguridad y organización en el laboratorio</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="1254">
+          <nombre>Técnicas básicas de microbiología y bioquímica</nombre>
+          <horas>165</horas>
+        </modulo>
+        <modulo codigo="1257">
+          <nombre>Almacenamiento y distribución en el laboratorio</nombre>
+          <horas>66</horas>
+        </modulo>
+        <modulo codigo="0116">
+          <nombre>Principios de mantenimiento electromecánico</nombre>
+          <horas>99</horas>
+        </modulo>
+        <modulo codigo="E100">
+          <nombre>Inglés técnico</nombre>
+          <horas>33</horas>
+        </modulo>
+      </primero>
+      <segundo>
+        <modulo codigo="1251">
+          <nombre>Pruebas fisicoquímicas</nombre>
+          <horas>147</horas>
+        </modulo>
+        <modulo codigo="1255">
+          <nombre>Operaciones de análisis químico</nombre>
+          <horas>231</horas>
+        </modulo>
+        <modulo codigo="1256">
+          <nombre>Ensayos de materiales</nombre>
+          <horas>84</horas>
+        </modulo>
+        <modulo codigo="1258">
+          <nombre>Formación y orientación laboral</nombre>
+          <horas>105</horas>
+        </modulo>
+        <modulo codigo="1259">
+          <nombre>Empresa e iniciativa emprendedora</nombre>
+          <horas>63</horas>
+        </modulo>
+        <modulo codigo="1260">
+          <nombre>Formación en centros de trabajo</nombre>
+          <horas>380</horas>
+        </modulo>
+      </segundo>
+      <sede>Elorrieta</sede>
+      <acceso_directo>Graduado en Educación Secundaria</acceso_directo>
+      <acceso_directo>REM I.</acceso_directo>
+      <acceso_directo>2º de BUP.</acceso_directo>
+      <acceso_directo>Título de Técnico o FP I.</acceso_directo>
+      <acceso_prueba>Prueba de acceso CFGM.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso CFGS.</acceso_prueba>
+      <acceso_prueba>Prueba de acceso a la Universidad para mayores de 25 años.</acceso_prueba>
+      <titulacion>Técnico/a en Laboratorio.</titulacion>
+      <competencia>Realizar el montaje de los equipos y la puesta a punto de las instalaciones auxiliares de un laboratorio.</competencia>
+      <competencia>Poner en marcha los equipos, verificando su operatividad y la de los servicios.</competencia>
+      <competencia>Realizar el mantenimiento de primer nivel de los equipos e instalaciones.</competencia>
+      <competencia>Realizar tomas de muestras, teniendo en cuenta su naturaleza y finalidad.</competencia>
+      <competencia>Preparar la muestra para el análisis.</competencia>
+      <competencia>Realizar ensayos de materiales o fisicoquímicos, siguiendo procedimientos.</competencia>
+      <competencia>Realizar análisis químicos o microbiológicos.</competencia>
+      <competencia>Gestionar el almacén del laboratorio.</competencia>
+      <competencia>Realizar el envasado y etiquetado de los productos.</competencia>
+      <competencia>Asegurar el cumplimiento de normas y medidas de protección ambiental.</competencia>
+      <trabajo>Auxiliar de laboratorio químico.</trabajo>
+      <trabajo>Laborante alimentario.</trabajo>
+      <trabajo>Laborante de plásticos y cauchos.</trabajo>
+      <trabajo>Ayudante de laboratorio de ensayos físicos (materiales).</trabajo>
+      <trabajo>Ayudante de laboratorio de pasta, papel y cartón.</trabajo>
+      <trabajo>Administrativa/o de gestión y de personal.</trabajo>
+      <estudios>Bachillerato.</estudios>
+      <estudios>Ciclo Superior de FP mediante prueba de acceso.</estudios>
+    </ciclo>
+  </familia>
+</elorrieta>
