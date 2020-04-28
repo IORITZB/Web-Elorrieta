@@ -1,81 +1,77 @@
+/* <a href="https://www.freepik.es/fotos-vectores-gratis/negocios">Vector de Negocios creado por pikisuperstar - www.freepik.es</a> */
 
-body{
-	margin: 0;
-	width: 1280px;
-	height: 1024px;
-}
-.ventana{
-
-	width: 1280px;
-	height: 1024px;
-	background-image: url("imagenes/fondo_principal.jpg");
-	background-repeat: no-repeat;
-	background-size: 1280px 1024px;
-}
-.cabecera{
-	height: 150px;
+body {
+    margin: 0;
+    background-image: url("imagenes/principal.png");
+    background-repeat: no-repeat;
+    background-size: 1300px 1300px; 
+    background-position: 50% ;
+  
 }
 
-.central{
-	display: block;
+.cabecera {
+    height: 150px;
+     opacity:0.6;
 }
 
-li{
-	background-image: url("imagenes/Hexagono_Coral.png");
-	background-repeat: no-repeat;
-	background-position: center;
-	width: 310px;
-	height: 310px;
-	margin-left: 60px;
-	margin-top: 200px;
-	display: block;
-	float:left;
-	text-align: center;
-	vertical-align: middle;
-	padding: 0;
-
-	
-}
-a{
-	text-decoration: none;
-	color: #ffff;
-	text-align: center;
-}
-.elemento-lista p{
-	margin-right: 15px;
-	margin-top: 110px;
+.central {
+    display: block;
+    margin-left:20%;
 }
 
-.elemento-lista_familias{
- transform: translate(0%, -20%);
+li {
+    background-image: url("imagenes/Hexagono_Coral.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 310px;
+    height: 310px;
+    display: block;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0;
+    margin-bottom: -100px;
 }
 
+a {
+    text-decoration: none;
+    color: #ffff;
+    text-align: center;
+}
+
+.elemento-lista p {
+    margin-right: 15px;
+    margin-top: 110px;
+}
+
+.elemento-lista_familias {
+    transform: translate(0%, -20%);
+}
 
 .elemento-lista {
-	font-family: 'Amatic SC', cursive;
-	font-size: 3em;
-  margin-left: 100px;
-	margin-top: 345px;
-  transform: translate(-15%, -50%);
+    font-family: 'Amatic SC', cursive;
+    font-size: 3em;
+    margin-left: 100px;
+    margin-top: 220px;
+    transform: translate(-15%, -50%);
 }
 
-.contacto{
-	font-family: 'Amatic SC', cursive;
-	font-size: 2.5em;
-	font-weight: bold;
-	float:right;
-	margin-right:  560px;
-	width:165px;
-	height: 40px;
-	background-color: rgba(162,162,162,0.70);
-	padding:10px;
-	color: #ffff;
-	border-radius: 10px;
-	text-align: center;
-  line-height: 40px;
-	
-}
-i{
-	margin:4px;
+.contacto {
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.5em;
+    font-weight: bold;
+    float: right;
+    margin-right: 600px;
+    width: 165px;
+    height: 40px;
+    background-color: rgba(162, 162, 162, 0.70);
+    padding: 10px;
+    color: #ffff;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 40px;
 }
 
+i {
+    margin: 4px;
+}
